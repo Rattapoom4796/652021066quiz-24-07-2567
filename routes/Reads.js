@@ -16,4 +16,4 @@ readRoute.get('/std',function(req,res,next){
 });
        
 
-module.exports = deleteRoute;
+module.exports = readRoute;
