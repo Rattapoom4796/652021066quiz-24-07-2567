@@ -1,6 +1,8 @@
 const express=require('express');
 const app=express();
-const PORT=process.env.PORT || 3500
+const PORT=process.env.PORT || 3066
+
+console 
 
 
 app.use(express.json());
